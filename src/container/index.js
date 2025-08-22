@@ -1,12 +1,12 @@
-import AboutUs from './AboutUs/AboutUs';
-import Chef from './Chef/Chef';
-import FindUs from './FindUs/FindUs';
-import Footer from './Footer/Footer';
-import Gallery from './Gallery/Gallery';
-import Header from './Header/Header';
-import Intro from './Intro/Intro';
-import Laurels from './Laurels/Laurels';
-import SpecialMenu from './Menu/SpecialMenu';
+import AboutUs from './AboutUs/AboutUs.jsx';
+import Chef from './Chef/Chef.jsx';
+import FindUs from './FindUs/FindUs.jsx';
+import Footer from './Footer/Footer.jsx';
+import Gallery from './Gallery/Gallery.jsx';
+import Header from './Header/Header.jsx';
+import Intro from './Intro/Intro.jsx';
+import Laurels from './Laurels/Laurels.jsx';
+import SpecialMenu from './Menu/SpecialMenu.jsx';
 
 export {
   AboutUs,
